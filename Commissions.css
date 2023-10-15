@@ -1,0 +1,111 @@
+.row {
+	display: flex;
+	margin: 20;
+}
+
+#one {
+	flex: 2;
+	margin: 20;
+	text-align: center;
+	color: #ffe669;
+	background-color: 4a2eff;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+#onetwo {
+	flex: 1;
+	margin: 20;
+	text-align: center;
+	color: #ffe669;
+	background-color: 4a2eff;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+#two {
+	flex: 3;
+	margin: 20;
+	text-align: center;
+	color: #ffe669;
+	background-color: 4a2eff;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 20px;
+}
+
+#twotwo {
+	flex: 4;
+	margin: 20;
+	text-align: center;
+	color: #ffe669;
+	background-image: url("Background.png");
+	padding: 10px;
+	border-radius: 20px;
+}
+
+#link {
+	color: #ffffff;
+	font-size: 25px;
+}
+
+#link:hover {
+	color: #ff3333;
+	font-size: 25px;
+}
+
+#sub{
+	display: flex;
+}
+
+#sub div{
+	flex: 1;
+}
+
+#smol {
+	height: 200px;
+	width: 200px;
+}
+
+#big {
+	height: 400px;
+	width: 370px;
+}
+
+#ref {
+	height: 400px;
+	width: 370px;
+}
+
+#stream {
+	height: 330px;
+	width: 600px;
+}
+
+#over {
+	height: 350px;
+	width: 350px;
+}
+
+#thx {
+	height: 341px;
+	width: 721px;
+}
+
+#other {
+	height: 510px;
+	width: 380px;
+}
+
+#bg {
+	height: 240px;
+	width: 370px;
+}
+
+#pfp {
+	height: 300px;
+	width: 300px;
+	border: solid;
+	border-color: white;
+	border-width: 15px;
+}
